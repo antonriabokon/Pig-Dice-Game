@@ -15,3 +15,7 @@ Example Play
 Lea starts the game and rolls a 5. She could hold and bank 5 points, but dares to roll again, getting a 2—her turn total is now 7. Lea rolls once more and hits a 1, losing the 7 points and ending her turn with 0.
 
 Next, Frank rolls 4, 5, 3, 5, 6, then wisely decides to hold. He adds 23 points to his overall score.
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=antonriabokon_Pig-Game&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=antonriabokon_Pig-Game)
+
+[![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-light.svg)](https://sonarcloud.io/summary/new_code?id=antonriabokon_Pig-Game)
