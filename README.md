@@ -1,4 +1,4 @@
-## 🐷 Pig(Dice) Game
+## 🐷Pig(Dice) Game
 
 Players take turns rolling a single die, trying to rack up points—but with a risky twist:
 
