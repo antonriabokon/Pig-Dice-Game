@@ -2,11 +2,11 @@
 
 Players take turns rolling a single die, trying to rack up points—but with a risky twist:
 
-🎲 Roll a 1: Your turn immediately ends, and you score zero points for that round.
+- 🎲 Roll a 1: Your turn immediately ends, and you score zero points for that round.
 
-🎯 Roll 2–6: Add the number to your current turn total and decide whether to roll again or stop.
+- 🎯 Roll 2–6: Add the number to your current turn total and decide whether to roll again or stop.
 
-✋ Hold: If you stop (hold), the points from your current turn are added to your overall score. Then the next player takes their turn.
+- ✋ Hold: If you stop (hold), the points from your current turn are added to your overall score. Then the next player takes their turn.
 
 The first player to reach 100 points or more is crowned the winner.
 
